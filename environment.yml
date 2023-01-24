@@ -1,0 +1,15 @@
+name: word-network-graph
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - python=3.9
+  - jupyter
+  - matplotlib
+  - networkx
+  - jupyterlab
+  - levenshtein
+  - pydot
+  - pygraphviz
+prefix: /opt/miniconda3/envs/word-network-graph
